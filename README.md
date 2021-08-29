@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JudahRuhben
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm interested in Programming. Currently learning C Language.
 
 <!---
 JudahRuhben/JudahRuhben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
